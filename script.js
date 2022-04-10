@@ -11,7 +11,7 @@ function callMe() {   // callback function
     console.log('callback');
 }
 
-greet('Yukesh', callMe);   // passing function as an argument
+greet('Shanth', callMe);   // passing function as an argument
 
 
 
